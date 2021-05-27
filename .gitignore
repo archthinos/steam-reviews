@@ -3,7 +3,8 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
+./vscode
+.env.example
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
