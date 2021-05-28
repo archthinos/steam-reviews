@@ -75,16 +75,15 @@ Kontrola duplicity recenzie alebo update nových recenzíí pri spustení review
 Testy - otestovať aplikáciu
 Multijazyčnosť
 
-
 ### Obrázky aplikácie
 #### Hlavná stránka
-![mainpage](https://user-images.githubusercontent.com/27582579/119974958-971a4880-bfb5-11eb-8046-4e09a278954f.png){:width=300}
+![mainpage](https://user-images.githubusercontent.com/27582579/119974958-971a4880-bfb5-11eb-8046-4e09a278954f.png)
 
 #### Detail produktu
-![detail](https://user-images.githubusercontent.com/27582579/119974953-9681b200-bfb5-11eb-842b-c360a059e1fe.png){:width=300}
+![detail](https://user-images.githubusercontent.com/27582579/119974953-9681b200-bfb5-11eb-842b-c360a059e1fe.png)
 
 #### Detail produktu - Načítať viac recenzií
-![loadmore](https://user-images.githubusercontent.com/27582579/119974951-95e91b80-bfb5-11eb-9651-5150d5722d8d.png){:width=300}
+![loadmore](https://user-images.githubusercontent.com/27582579/119974951-95e91b80-bfb5-11eb-9651-5150d5722d8d.png)
 
 
 
