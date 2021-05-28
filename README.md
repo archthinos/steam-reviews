@@ -72,8 +72,11 @@ Doplniť viac informácií k produktu
 
 ### Backend
 Queue - vytvorenie workera pre funkciu sťahovania recenzií
+
 Kontrola duplicity recenzie alebo update nových recenzíí pri spustení reviews:steam
+
 Testy - otestovať aplikáciu
+
 Multijazyčnosť
 
 ### Obrázky aplikácie
