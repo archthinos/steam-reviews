@@ -1,6 +1,7 @@
 # Steam recenzie
 
 Funkciou projektu je stiahnutie Steam recenzií v jazyku internetového obchodu. 
+Kód projektu sa nachádza [na stránke môjho github-u](https://github.com/archthinos/steam-reviews)
 
 ## Aplikácia
 Aplikácia je postavená na PHP frameworku Laravel s použitím LiveWire. Pre JavaScript funkcie som
